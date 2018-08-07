@@ -1,0 +1,14 @@
+.container-colored {
+	padding-left: 300px;
+	padding-right: 300px;
+	padding-bottom: 10px;
+}
+
+.container-colored-blue {
+	background: #E3F2FD;
+}
+
+.container-colored-dark {
+	background: rgba(13,71,161,1);
+	color: #fff;
+}
