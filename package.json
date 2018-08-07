@@ -8,6 +8,7 @@
     "react-dom": "^16.2.0",
     "react-flexbox-grid": "^2.0.0",
     "react-motion": "^0.5.2",
+    "react-responsive": "^5.0.0",
     "react-scripts": "1.0.17",
     "react-social-icons": "^3.0.0",
     "styled-components": "^2.4.0",
@@ -18,5 +19,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "homepage" : "http://sngguojie.github.io",
 }

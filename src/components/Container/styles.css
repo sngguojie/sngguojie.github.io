@@ -1,6 +1,6 @@
 .container-colored {
-	padding-left: 300px;
-	padding-right: 300px;
+	padding-left: 5vw;
+	padding-right: 5vw;
 	padding-bottom: 10px;
 }
 
@@ -11,4 +11,12 @@
 .container-colored-dark {
 	background: rgba(13,71,161,1);
 	color: #fff;
+}
+
+@media screen and (max-width: 800px) {
+	.container-colored {
+		padding-left: 50px;
+		padding-right: 50px;
+		padding-bottom: 10px;
+	}
 }
