@@ -19,7 +19,7 @@ import UCBImg from '../../static/img/ucbLogo.png';
 import './styles.css'
 WebFont.load({
   google: {
-    families: ['Gloria Hallelujah', 'sans-serif', 'Roboto']
+    families: ['Gloria Hallelujah', 'sans-serif', 'Roboto', 'Poiret One']
   }
 });
 
@@ -29,7 +29,7 @@ class HomePage extends Component {
       <div className="namecard">
         <span className="text">Hi, my name is</span>
         <h1 className="name">MELVYN</h1>
-        <span className="text">I am a</span>
+        <span className="text">I am an</span>
         <h3 className="subtitle">Entrepreneur & Coder</h3>
         <SocialIcon style={{margin: 5}} url="https://www.linkedin.com/in/melvynsng"/>
         <SocialIcon style={{margin: 5}} url="https://www.facebook.com/melvyn.sngguojie"/>
